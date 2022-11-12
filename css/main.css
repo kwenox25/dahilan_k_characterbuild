@@ -130,7 +130,7 @@ article p {
 
 /* footer rules here */
 footer {
-    color: black;
+    color: #fff;
     padding: 30px 0;
     text-align: center;
 }
@@ -140,7 +140,7 @@ footer {
     top: 100%;
 
     height: 80px;
-    background-color: #317e6a;
+    background-color: #bc7c56;
 }
 
 /* lightbox rules here */
@@ -165,10 +165,11 @@ footer {
     display: none;
 }
 
-#lightbox2 { background-image: url('../images/Thor_LB_Bg.png'); }
-#lightbox3 { background-image: url('../images/Thor_LB_Bg.png'); }
-#lightbox4 { background-image: url('../images/Thor_LB_Bg.png'); }
-
+#lightbox2 { background-image: url('../images/rossgeller_crop.png'); }
+#lightbox3 { background-image: url('../images/phoebebuffay_crop.png'); }
+#lightbox4 { background-image: url('../images/joeyt_crop.png'); }
+#lightbox5 { background-image: url('../images/monicageller_crop.png'); }
+#lightbox6 { background-image: url('../images/chandlerb_crop.png'); }
 
 .lightbox_close {
     position: relative;
